@@ -1,1 +1,1 @@
-# Natural-Language-Processes-Emotion-Detection-Project
+# Natural-Language-Processing-Emotion-Detection-Project
